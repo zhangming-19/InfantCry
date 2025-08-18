@@ -1,2 +1,2 @@
-# LAES
-The source codes and checkpoints for LAES will be released soon~
+# Infant cry
+The source codes and checkpoints for Infant Cry will be released soon~
